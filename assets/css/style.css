@@ -1,0 +1,206 @@
+body{
+    background-color: grey;
+}
+.bd-yellow {
+    background: rgba(255, 213, 86, 0.6);
+}
+
+.dropdown-background {
+    background: #ffd556;
+    color: #0000;
+}
+
+.whats-app {
+    position: fixed;
+    width: 60px;
+    height: 60px;
+    bottom: 50px;
+    background-color: #25d366;
+    color: #FFF;
+    border-radius: 50px;
+    text-align: center;
+    font-size: 30px;
+    box-shadow: 2px 2px 3px #999;
+    z-index: 100;
+    right: 20px;
+}
+
+.instagram-icon {
+    position: fixed;
+    width: 60px;
+    height: 60px;
+    bottom: 50px;
+    color: #FFF;
+    border-radius: 50px;
+    text-align: center;
+    font-size: 30px;
+    box-shadow: 2px 2px 3px #999;
+    z-index: 100;
+    right: 20px;
+
+    background: #f09433;
+    background: -moz-linear-gradient(45deg, #f09433 0%, #e6683c 25%, #dc2743 50%, #cc2366 75%, #bc1888 100%);
+    background: -webkit-linear-gradient(45deg, #f09433 0%, #e6683c 25%, #dc2743 50%, #cc2366 75%, #bc1888 100%);
+    background: linear-gradient(45deg, #f09433 0%, #e6683c 25%, #dc2743 50%, #cc2366 75%, #bc1888 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#f09433', endColorstr='#bc1888', GradientType=1);
+}
+
+.my-float {
+    margin-top: 16px;
+}
+
+.div-logo {
+    background-color: #ffd556;
+}
+
+.letras-navegacion {
+    color: #333;
+    font-size: 14px;
+    line-height: 40px;
+    font-weight: 700;
+    text-transform: uppercase;
+}
+
+@media only screen and (max-width: 600px) {
+    .img-inicio {
+        height: 100px;
+    }
+}
+
+.dropdown {
+    position: relative;
+    display: inline-block;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f1f1f1;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+    z-index: 1;
+}
+
+.dropdown-content a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+}
+
+.dropdown-content a:hover {
+    background-color: #ffd556;
+}
+
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+
+.has-search {
+    padding-left: 2.375rem;
+}
+
+.form-control-feedback {
+    position: absolute;
+    z-index: 2;
+    display: block !important;
+    width: 23.375rem;
+    height: 0.375rem;
+    line-height: 2.375rem !important;
+    text-align: center;
+    pointer-events: none;
+    color: #aaa;
+}
+
+.input-busqueda {
+    border-radius: 20px;
+}
+
+.input-busqueda:focus {
+    outline: none !important;
+    outline-width: 0 !important;
+    box-shadow: none;
+    -moz-box-shadow: none;
+    -webkit-box-shadow: none;
+}
+
+
+.titulo-parrafos {
+    font-style: oblique;
+}
+
+.texto-parrafo {
+    font-style: oblique;
+    font-size: 20px;
+}
+
+.sticky {
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+
+.bg-important {
+    background: #ffd556 !important;
+}
+
+.dropdown:hover .dropdown-one,
+#link1:hover>.dropdown-two {
+    display: block;
+}
+
+.dropdown-one {
+    cursor: pointer;
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+}
+
+.dropdown-two {
+    cursor: pointer;
+    display: none;
+    position: absolute;
+    left: 160px;
+    top: 0px;
+    min-width: 160px;
+    background-color: #f9f9f9;
+    box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+}
+
+.dropdown-one .dItem {
+    color: black;
+    padding: 12px 16px;
+    display: block;
+    text-align: left;
+}
+
+.dropdown-one .dItem:hover,
+.dropdown-two a:hover {
+    background-color: #ffd556;
+}
+
+#mapaSitio {
+    height: 700px;
+}
+
+.width-producto{
+    width: 300px !important;
+}
+
+.up-icon {
+    position: fixed;
+    width: 60px;
+    height: 60px;
+    bottom: 120px;
+    background-color: black;
+    color: #FFF;
+    border-radius: 50px;
+    text-align: center;
+    font-size: 30px;
+    box-shadow: 2px 2px 3px #999;
+    z-index: 100;
+    right: 20px;
+    cursor: pointer;
+}
