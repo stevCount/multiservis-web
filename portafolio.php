@@ -21,7 +21,7 @@
 
     <section id="papeleria">
         <div class="container fluid">
-            <h1 class="text-center mb-4 titulo-parrafos mt-5 display-3">Papeleria</h1>
+            <h1 class="text-center mb-4 titulo-parrafos mt-5 display-3">Papelería</h1>
             <br>
             <br>
             <div class="row mb-5">
@@ -30,12 +30,12 @@
                 <div class="col-6 text-center">
                     <h2 class="mb-5">Soluciones al instante</h2>
                     <p class="display-4">
-                        Articulos de papel,Articulos de escritura, Productos, Arte, Elementos Utiles y mas ...
+                        Artículos de papel, Artículos de escritura, Productos, Arte, Elementos útiles y más ...
                     </p>
                 </div>
             </div>
             <div class="subitem">
-                <h1 class="titulo-parrafos text-center display-3 mb-5">Articulos de papel</h1>
+                <h1 class="titulo-parrafos text-center display-3 mb-5">Artículos de papel</h1>
                 <!-- Papeleria Carousel -->
                 <div class="owl-carousel owl-theme productos-carousel">
                     <div>

@@ -35,7 +35,7 @@
         ]
     },
     {
-        "titulo_principal": "Perfumeria",
+        "titulo_principal": "Perfumería",
         "url_imagen_principal": "assets/img/perfumeria/ejemplo.jpg",
         "tituloparrafo_principal": "Soluciones al instante",
         "parrafo_principal": "...",
@@ -76,10 +76,10 @@
         ]
     },
     {
-        "titulo_principal": "Pelucheria",
+        "titulo_principal": "Peluchería",
         "url_imagen_principal": "assets/img/pelucheria/ejemplo.jpg",
         "tituloparrafo_principal": "Soluciones al instante",
-        "parrafo_principal": "Pelucheria ... ",
+        "parrafo_principal": "Peluchería ... ",
         "id_section": "pelucheria",
         "items_sub": [
             {
@@ -173,7 +173,7 @@
         ]
     },
     {
-        "titulo_principal": "Dulceria",
+        "titulo_principal": "Dulcería",
         "url_imagen_principal": "assets/img/dulceria/ejemplo.jpg",
         "tituloparrafo_principal": "Soluciones al instante",
         "parrafo_principal": "...",
@@ -243,7 +243,7 @@
         ]
     },
     {
-        "titulo_principal": "Piñateria",
+        "titulo_principal": "Piñatería",
         "url_imagen_principal": "assets/img/pinateria/ejemplo.jpg",
         "tituloparrafo_principal": "Soluciones al instante",
         "parrafo_principal": "...",
@@ -284,7 +284,7 @@
         ]
     },
     {
-        "titulo_principal": "Ferreteria",
+        "titulo_principal": "Ferretería",
         "url_imagen_principal": "assets/img/ferreteria/ejemplo.webp",
         "tituloparrafo_principal": "Soluciones al instante",
         "parrafo_principal": "...",
@@ -310,7 +310,7 @@
         ]
     },
     {
-        "titulo_principal": "Articulos para mascotas",
+        "titulo_principal": "Artículos para mascotas",
         "url_imagen_principal": "assets/img/articulos_para_mascotas/ejemplo.jpg",
         "tituloparrafo_principal": "Soluciones al instante",
         "parrafo_principal": "...",
@@ -330,7 +330,7 @@
         ]
     },
     {
-        "titulo_principal": "Equipos electronicos y accesorios",
+        "titulo_principal": "Equipos electrónicos y accesorios",
         "url_imagen_principal": "assets/img/accesorio_para_aparatos_electronicos/ejemplo.jpg",
         "tituloparrafo_principal": "Soluciones al instante",
         "parrafo_principal": "...",

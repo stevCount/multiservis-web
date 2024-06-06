@@ -41,7 +41,7 @@
 
         <section class="contactanos">
             <div class="container">
-                <h1 class="mt-5">Contactanos</h1>
+                <h1 class="mt-5">Contáctanos</h1>
                 <ul class="list-group">
                     <li class="list-group-item">Razón social : MultiServis.Com </li>
                     <li class="list-group-item list-group-item-warning">Ubicación : Carrera 8 No. 189-08 Norte de Bogotá
@@ -98,7 +98,7 @@
                             </p>
                         </div>
                         <div class="col-md-6 col-lg-6 col-xl-6 mx-auto mb-md-0 mb-4">
-                            <h6 class="text-uppercase fw-bold mb-4">Contactanos</h6>
+                            <h6 class="text-uppercase fw-bold mb-4">Contáctanos</h6>
                             <p><i class="fas fa-home me-3"></i> Colombia, Bogota D.C, Carrera 8 Nro 189 - 08 Norte</p>
                             <p>
                                 <i class="fas fa-envelope me-3"></i>
