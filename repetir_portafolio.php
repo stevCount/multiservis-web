@@ -37,7 +37,7 @@
                             $stringPlantilla .= "<div>
                                                     <img class='width-producto' height='300' src='{$urlImagen}' alt=''>
                                                     <button type='button' class='btn btn-outline-warning' data-toggle='tooltip' data-placement='top'
-                                                        title='Agregar al carrito' style='width: 300px;'>Agregar al carrito <i
+                                                        title='Agregar al carrito' style='width: 300px;' onclick='insertCart(&quot;{$urlImagen}&quot;)'>Agregar al carrito <i
                                                             class='fa fa-shopping-cart' aria-hidden='true'></i></button>
                                                 </div>";
                         }

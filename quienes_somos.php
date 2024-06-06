@@ -24,28 +24,23 @@
             <h1 class="text-center mb-4 titulo-parrafos mt-5">Marco filosófico <i class="fa fa-book"></i> </h1>
             <h2>Misión de la microempresa</h2>
             <p class="texto-parrafo">
-                Nuestra misión es ofrecer productos de calidad a precios accesibles, brindando un
-                excelente servicio al cliente, nos comprometemos con la responsabilidad social corporativa,
-                la ética empresarial. Buscamos expandir nuestra gama de productos, invertir en tecnología e
-                innovación, adaptarnos al mercado garantizando la seguridad y satisfacción de los clientes,
-                proporcionando una experiencia excepcional. Valoramos el bienestar de los empleados, buscamos un
-                crecimiento sostenible y reconocemos los desafíos, manejándolos de manera
-                efectiva, brindando soluciones integrales de calidad.
+                MultiServis.com es una mini distribuidora y papelería que se dedica a ofrecer una amplia
+                gama de productos y servicios de alta calidad a sus clientes, se caracteriza por su capacidad
+                para brindar soluciones al instante, además de satisfacer las necesidades de cada uno de ellos,
+                enfocándose en las personas que buscan confiabilidad al igual que opciones diversas tanto en
+                lo profesional como en lo cotidiano, generando confianza en los clientes, siendo este su
+                distintivo, dando camino a convertirse en un referente en la localidad de Usaquén.
             </p>
             <br>
             <h2>Visión de la microempresa</h2>
             <p class="texto-parrafo">
-                Para el año 2028 seremos un referente del servicio al cliente en innovación y
-                soluciones personalizadas, ofreciendo una experiencia excepcional, estableciendo
-                relaciones sólidas, duraderas y generando satisfacción con nuestros clientes. Nuestro
-                compromiso es ofrecer una amplia gama de productos de alta calidad, a futuro se
-                implementará un servicio a domicilio, un taller de sublimación y una ampliación de nuestro
-                local para brindar una mejor visibilidad de nuestros productos, creando así un ambiente
-                atractivo para una experiencia de compra excepcional. Buscamos seguir siendo impulsores del empleo,
-                desempeñar un papel importante en la economía. Mantendremos la filosofía de reinvertir ganancias para
-                crecer de manera sostenible. Nuestro objetivo es ser reconocidos como una empresa confiable que ofrece
-                soluciones al instante a nuestros clientes
-                .
+                Para el año 2028, Multiservis.com se propone ser reconocido como un referente del
+                servicio al cliente en innovación ofreciendo soluciones al instante donde su enfoque principal
+                es la satisfacción de los clientes. Se proyecta la implementación de servicios adicionales
+                como el servicio a domicilio, un taller de sublimación, y se estima ampliar las instalaciones
+                para mejorar la experiencia de compra, creando así un ambiente atractivo de la empresa,
+                manteniendo la filosofía de reinvertir ganancias para un crecimiento sostenible, impulsar el
+                empleo y desempeñar un papel importante en la economía local.
             </p>
             <br>
             <h2>Valores corporativos</h2>
@@ -92,7 +87,40 @@
                 la colaboración entre los diferentes empleados.
             </p>
             <br>
+            <h2>Políticas de calidad</h2>
             <br>
+            <ol>
+                <li>
+                    Compromiso con la satisfacción del cliente: Establecer como prioridad la
+                    satisfacción del cliente, manteniendo un enfoque en brindar productos y servicios que
+                    cumplan o superen las expectativas de los mismos.
+                </li>
+                <li>
+                    Control de calidad en los productos: Realizar un control de calidad riguroso en los
+                    productos que se ofrecen en la papelería, esto puede incluir la inspección de los
+                    productos entregados por los proveedores, la verificación de la calidad de los artículos
+                    antes de su venta y la implementación de medidas para evitar la venta de productos
+                    defectuosos.
+                </li>
+                <li>
+                    Variedad y disponibilidad de productos o servicios: Asegurarse de ofrecer una
+                    amplia variedad de productos y/o servicios de papelería para satisfacer las
+                    necesidades de los clientes, manteniendo un inventario adecuado para garantizar la
+                    disponibilidad de los productos más demandados.
+                </li>
+                <li>
+                    Atención al cliente: Capacitar al personal de la papelería para brindar un servicio al
+                    cliente amigable, eficiente y profesional, fomentando una cultura de atención al
+                    cliente, centrada en escuchar y resolver las necesidades de los clientes de manera
+                    oportuna.
+                </li>
+                <li>
+                    Mejora continua: Establecer un proceso de mejora continua en el que se revisan
+                    regularmente los procedimientos y prácticas de la papelería para identificar áreas de
+                    mejora, impulsando la participación de los empleados en la identificación de
+                    oportunidades de mejora y en la implementación de acciones correctivas.
+                </li>
+            </ol>
             <br>
             <h2>Objetivo general</h2>
             <p class="texto-parrafo">

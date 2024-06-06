@@ -46,7 +46,7 @@
                     <li class="list-group-item">Razón social : MultiServis.Com </li>
                     <li class="list-group-item list-group-item-warning">Ubicación : Carrera 8 No. 189-08 Norte de Bogotá
                     </li>
-                    <li class="list-group-item">Celular / WhatsApp: 314 350 3388</li>
+                    <li class="list-group-item">Celular / WhatsApp: 300 850 2733</li>
                     <li class="list-group-item">Correo electrónico: papeleria.co@hotmail.com</li>
                 </ul>
             </div>
@@ -74,7 +74,7 @@
                 <a class="btn btn-outline-light btn-floating m-1" href="https://www.instagram.com/subliart.co/"
                     role="button"><i class="fa fa-instagram"></i></a>
                 <a class="btn btn-outline-light btn-floating m-1"
-                    href="https://wa.me/573143053388?text=Hola%20Deseo%20obtener%20mas%20informacion" role="button"><i
+                    href="https://wa.me/573008502733?text=Hola%20Deseo%20obtener%20mas%20informacion" role="button"><i
                         class="fa fa-whatsapp"></i></a>
             </section>
             <section class="mb-4">
@@ -104,19 +104,19 @@
                                 <i class="fas fa-envelope me-3"></i>
                                 papeleria.co@hotmail.com
                             </p>
-                            <p><i class="fas fa-phone me-3"></i> + 57 314 350 3388</p>
+                            <p><i class="fas fa-phone me-3"></i> + 57 300 850 2733</p>
                         </div>
                     </div>
                 </div>
             </section>
         </div>
         <div class="text-center p-3" style="background-color: rgba(0, 0, 0, 0.2);">
-            © 2023 Copyright:
+            © 2024 Copyright:
             <a class="text-white" href="#">Multiservis.com</a>
         </div>
     </footer>
 
-    <a class="whats-app" href="https://wa.me/573143053388?text=Hola%20Deseo%20obtener%20mas%20informacion"
+    <a class="whats-app" href="https://wa.me/573008502733?text=Hola%20Deseo%20obtener%20mas%20informacion"
         target="_blank">
         <i class="fa fa-whatsapp my-float"></i>
     </a>

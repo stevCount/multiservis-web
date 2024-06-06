@@ -56,3 +56,63 @@ function myFunction() {
         navbar.classList.remove("bg-important")
     }
 }
+
+function insertCart(urlimage, element = null) {
+    var imgurlalternative = '';
+    $(element).children().each(function() {
+        console.log(typeof($(this).attr('src')) !== 'undefined');
+        if ( typeof($(this).attr('src')) !== 'undefined' ){
+            imgurlalternative = $(this).attr('src');
+        }
+    });
+
+    const data = {
+        urlimage: element != null ? imgurlalternative : urlimage,
+    };
+
+    $.ajax({
+        type: 'POST',
+        url: 'insertar_articulo.php',
+        data: JSON.stringify(data),
+        contentType: 'application/json',
+    }).done((data) => {
+        if(data==1){
+            alertify.success('Articulo agregado correctamente');
+        }else{
+            alertify.error(data);
+        }
+    }).fail((err) => {
+        console.error(err);
+    });
+}
+
+function deleteCart(idcart) {
+
+    alertify.confirm('Confirmacion','¿Desea eliminar este articulo del carro de compras?',
+    function(){
+        const data = {
+            idcart: idcart,
+        };
+    
+        $.ajax({
+            type: 'POST',
+            url: 'delete_articulo.php',
+            data: JSON.stringify(data),
+            contentType: 'application/json',
+        }).done((data) => {
+            if(data==1){
+                alertify.success('Articulo eliminado correctamente');
+                setTimeout(function(){
+                    window.location.reload(1);
+                 }, 2000);
+            }else{
+                alertify.error(data);
+            }
+        }).fail((err) => {
+            console.error(err);
+        });
+    },
+    function(){
+        console.log('Cancel');
+    });
+}
