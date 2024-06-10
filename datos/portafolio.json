@@ -1,5 +1,220 @@
 [
     {
+        "titulo_principal": "Papelería",
+        "url_imagen_principal": "assets/img/papeleria/1.jpg",
+        "tituloparrafo_principal": "Soluciones al instante",
+        "parrafo_principal": "Artículos de papel, Artículos de escritura, Productos, Arte, Elementos útiles y más ...",
+        "id_section": "papeleria",
+        "items_sub": [
+            {
+                "subtitulo_principal": "Artículos de papel",
+                "items": [
+                    {
+                        "url_imagen": "assets/img/papeleria/articulos_papel/1.jpg",
+                        "nombre": "Carpetas",
+                        "precio": "3.400"
+                    },
+                    {
+                        "url_imagen": "assets/img/papeleria/articulos_papel/2.jpg",
+                        "nombre": "Papeles Fluorecentes",
+                        "precio": "5.100"
+                    },
+                    {
+                        "url_imagen": "assets/img/papeleria/articulos_papel/3.jpg"
+                    },
+                    {
+                        "url_imagen": "assets/img/papeleria/articulos_papel/5.jpg"
+                    },
+                    {
+                        "url_imagen": "assets/img/papeleria/articulos_papel/6.jpg"
+                    },
+                    {
+                        "url_imagen": "assets/img/papeleria/articulos_papel/7.jpg"
+                    },
+                    {
+                        "url_imagen": "assets/img/papeleria/articulos_papel/8.jpg"
+                    },
+                    {
+                        "url_imagen": "assets/img/papeleria/articulos_papel/9.jpg"
+                    },
+                    {
+                        "url_imagen": "assets/img/papeleria/articulos_papel/10.jpg"
+                    },
+                    {
+                        "url_imagen": "assets/img/papeleria/articulos_papel/11.jpg"
+                    },
+                    {
+                        "url_imagen": "assets/img/papeleria/articulos_papel/12.jpg"
+                    },
+                    {
+                        "url_imagen": "assets/img/papeleria/articulos_papel/13.jpg"
+                    },
+                    {
+                        "url_imagen": "assets/img/papeleria/articulos_papel/14.jpg",
+                        "nombre": "Cuadernos 100x100",
+                        "precio": "2.800"
+                    }
+                ]
+            },
+            {
+                "subtitulo_principal": "Artículos de escritura",
+                "items": [
+                    {
+                        "url_imagen": "assets/img/papeleria/articulos_escritura/1.jpg"
+                    },
+                    {
+                        "url_imagen": "assets/img/papeleria/articulos_escritura/2.jpg"
+                    },
+                    {
+                        "url_imagen": "assets/img/papeleria/articulos_escritura/3.jpg"
+                    },
+                    {
+                        "url_imagen": "assets/img/papeleria/articulos_escritura/4.jpg"
+                    },
+                    {
+                        "url_imagen": "assets/img/papeleria/articulos_escritura/5.jpg"
+                    },
+                    {
+                        "url_imagen": "assets/img/papeleria/articulos_escritura/6.jpg"
+                    },
+                    {
+                        "url_imagen": "assets/img/papeleria/articulos_escritura/7.jpg"
+                    },
+                    {
+                        "url_imagen": "assets/img/papeleria/articulos_escritura/8.jpg"
+                    },
+                    {
+                        "url_imagen": "assets/img/papeleria/articulos_escritura/9.jpg"
+                    },
+                    {
+                        "url_imagen": "assets/img/papeleria/articulos_escritura/10.jpg"
+                    },
+                    {
+                        "url_imagen": "assets/img/papeleria/articulos_escritura/11.jpg"
+                    },
+                    {
+                        "url_imagen": "assets/img/papeleria/articulos_escritura/12.jpg"
+                    },
+                    {
+                        "url_imagen": "assets/img/papeleria/articulos_escritura/13.jpg"
+                    },
+                    {
+                        "url_imagen": "assets/img/papeleria/articulos_escritura/16.jpg"
+                    },
+                    {
+                        "url_imagen": "assets/img/papeleria/articulos_escritura/17.jpg"
+                    },
+                    {
+                        "url_imagen": "assets/img/papeleria/articulos_escritura/18.jpg"
+                    },
+                    {
+                        "url_imagen": "assets/img/papeleria/articulos_escritura/19.jpg"
+                    }
+                ]
+            },
+            {
+                "subtitulo_principal": "Productos de arte",
+                "items": [
+                    {
+                        "url_imagen": "assets/img/productos_de_arte/1.jpg"
+                    },
+                    {
+                        "url_imagen": "assets/img/productos_de_arte/2.jpg"
+                    },
+                    {
+                        "url_imagen": "assets/img/productos_de_arte/3.jpg"
+                    },
+                    {
+                        "url_imagen": "assets/img/productos_de_arte/4.jpg"
+                    },
+                    {
+                        "url_imagen": "assets/img/productos_de_arte/5.jpg"
+                    },
+                    {
+                        "url_imagen": "assets/img/productos_de_arte/6-1.jpg"
+                    },
+                    {
+                        "url_imagen": "assets/img/productos_de_arte/6.jpg"
+                    },
+                    {
+                        "url_imagen": "assets/img/productos_de_arte/7.jpg"
+                    },
+                    {
+                        "url_imagen": "assets/img/productos_de_arte/9.jpg"
+                    },
+                    {
+                        "url_imagen": "assets/img/productos_de_arte/10.jpg"
+                    }
+                ]
+            },
+            {
+                "subtitulo_principal": "Elementos de oficina y Útiles escolares",
+                "items": [
+                    {
+                        "url_imagen": "assets/img/elementos_de_oficina_ y_utiles_escolares/1.jpg"
+                    },
+                    {
+                        "url_imagen": "assets/img/elementos_de_oficina_ y_utiles_escolares/2.jpg"
+                    },
+                    {
+                        "url_imagen": "assets/img/elementos_de_oficina_ y_utiles_escolares/3.jpg"
+                    },
+                    {
+                        "url_imagen": "assets/img/elementos_de_oficina_ y_utiles_escolares/4.jpg"
+                    },
+                    {
+                        "url_imagen": "assets/img/elementos_de_oficina_ y_utiles_escolares/5.jpg"
+                    },
+                    {
+                        "url_imagen": "assets/img/elementos_de_oficina_ y_utiles_escolares/6.jpg"
+                    },
+                    {
+                        "url_imagen": "assets/img/elementos_de_oficina_ y_utiles_escolares/7.jpg"
+                    },
+                    {
+                        "url_imagen": "assets/img/elementos_de_oficina_ y_utiles_escolares/8.jpg"
+                    },
+                    {
+                        "url_imagen": "assets/img/elementos_de_oficina_ y_utiles_escolares/9.jpg"
+                    },
+                    {
+                        "url_imagen": "assets/img/elementos_de_oficina_ y_utiles_escolares/10.jpg"
+                    },
+                    {
+                        "url_imagen": "assets/img/elementos_de_oficina_ y_utiles_escolares/11.jpg"
+                    },
+                    {
+                        "url_imagen": "assets/img/elementos_de_oficina_ y_utiles_escolares/12.jpg"
+                    },
+                    {
+                        "url_imagen": "assets/img/elementos_de_oficina_ y_utiles_escolares/13.jpg"
+                    },
+                    {
+                        "url_imagen": "assets/img/elementos_de_oficina_ y_utiles_escolares/14.jpg"
+                    },
+                    {
+                        "url_imagen": "assets/img/elementos_de_oficina_ y_utiles_escolares/15.jpg"
+                    },
+                    {
+                        "url_imagen": "assets/img/elementos_de_oficina_ y_utiles_escolares/16.jpg"
+                    },
+                    {
+                        "url_imagen": "assets/img/elementos_de_oficina_ y_utiles_escolares/17.jpg"
+                    },
+                    {
+                        "url_imagen": "assets/img/elementos_de_oficina_ y_utiles_escolares/18.jpg"
+                    },
+                    {
+                        "url_imagen": "assets/img/elementos_de_oficina_ y_utiles_escolares/19.jpg"
+                    },
+                    {
+                        "url_imagen": "assets/img/elementos_de_oficina_ y_utiles_escolares/20.jpg"
+                    }
+                ]
+            }
+        ]
+    },
+    {
         "titulo_principal": "Servicios",
         "url_imagen_principal": "assets/img/servicios.jpg",
         "tituloparrafo_principal": "Soluciones al instante",
@@ -10,25 +225,39 @@
                 "subtitulo_principal": "Servicios, Anillado, Laminación, Fotografia, Duplicado de llaves",
                 "items": [
                     {
-                        "url_imagen": "assets/img/servicios_de_la_papeleria/1.jpg"
+                        "url_imagen": "assets/img/servicios_de_la_papeleria/1.jpg",
+                        "precio": "15.000",
+                        "nombre": "Anillado"
                     },
                     {
-                        "url_imagen": "assets/img/servicios_de_la_papeleria/2.jpg"
+                        "url_imagen": "assets/img/servicios_de_la_papeleria/2.jpg",
+                        "precio": "16.500",
+                        "nombre": "Encuadernación"
                     },
                     {
-                        "url_imagen": "assets/img/servicios_de_la_papeleria/3.jpg"
+                        "url_imagen": "assets/img/servicios_de_la_papeleria/3.jpg",
+                        "precio": "0",
+                        "nombre": "Impresiones y fotocopias"
                     },
                     {
-                        "url_imagen": "assets/img/servicios_de_la_papeleria/4.jpg"
+                        "url_imagen": "assets/img/servicios_de_la_papeleria/4.jpg",
+                        "precio": "12.500",
+                        "nombre": "Laminación"
                     },
                     {
-                        "url_imagen": "assets/img/servicios_de_la_papeleria/5.png"
+                        "url_imagen": "assets/img/servicios_de_la_papeleria/5.png",
+                        "precio": "",
+                        "nombre": ""
                     },
                     {
-                        "url_imagen": "assets/img/servicios_de_la_papeleria/6.jpg"
+                        "url_imagen": "assets/img/servicios_de_la_papeleria/6.jpg",
+                        "precio": "",
+                        "nombre": ""
                     },
                     {
-                        "url_imagen": "assets/img/servicios_de_la_papeleria/7.jpeg"
+                        "url_imagen": "assets/img/servicios_de_la_papeleria/7.jpeg",
+                        "precio": "3.000",
+                        "nombre": "Duplicado de llaves"
                     }
                 ]
             }
@@ -45,31 +274,49 @@
                 "subtitulo_principal": "",
                 "items": [
                     {
-                        "url_imagen": "assets/img/perfumeria/1.jpg"
+                        "url_imagen": "assets/img/perfumeria/1.jpg",
+                        "precio": "",
+                        "nombre": ""
                     },
                     {
-                        "url_imagen": "assets/img/perfumeria/2.jpg"
+                        "url_imagen": "assets/img/perfumeria/2.jpg",
+                        "precio": "",
+                        "nombre": ""
                     },
                     {
-                        "url_imagen": "assets/img/perfumeria/3.jpg"
+                        "url_imagen": "assets/img/perfumeria/3.jpg",
+                        "precio": "",
+                        "nombre": ""
                     },
                     {
-                        "url_imagen": "assets/img/perfumeria/4.jpg"
+                        "url_imagen": "assets/img/perfumeria/4.jpg",
+                        "precio": "",
+                        "nombre": ""
                     },
                     {
-                        "url_imagen": "assets/img/perfumeria/5.jpg"
+                        "url_imagen": "assets/img/perfumeria/5.jpg",
+                        "precio": "",
+                        "nombre": ""
                     },
                     {
-                        "url_imagen": "assets/img/perfumeria/6.jpg"
+                        "url_imagen": "assets/img/perfumeria/6.jpg",
+                        "precio": "",
+                        "nombre": ""
                     },
                     {
-                        "url_imagen": "assets/img/perfumeria/7.jpg"
+                        "url_imagen": "assets/img/perfumeria/7.jpg",
+                        "precio": "",
+                        "nombre": ""
                     },
                     {
-                        "url_imagen": "assets/img/perfumeria/8.jpg"
+                        "url_imagen": "assets/img/perfumeria/8.jpg",
+                        "precio": "",
+                        "nombre": ""
                     },
                     {
-                        "url_imagen": "assets/img/perfumeria/9.jpg"
+                        "url_imagen": "assets/img/perfumeria/9.jpg",
+                        "precio": "",
+                        "nombre": ""
                     }
                 ]
             }
@@ -86,34 +333,54 @@
                 "subtitulo_principal": "",
                 "items": [
                     {
-                        "url_imagen": "assets/img/pelucheria/1.jpg"
+                        "url_imagen": "assets/img/pelucheria/1.jpg",
+                        "precio": "58.000",
+                        "nombre": "Peluche Monster inc."
                     },
                     {
-                        "url_imagen": "assets/img/pelucheria/2.jpg"
+                        "url_imagen": "assets/img/pelucheria/2.jpg",
+                        "precio": "90.000",
+                        "nombre": "Peluche osito con corazón"
                     },
                     {
-                        "url_imagen": "assets/img/pelucheria/3.jpg"
+                        "url_imagen": "assets/img/pelucheria/3.jpg",
+                        "precio": "250.000",
+                        "nombre": "Baúl peluches de animalitos"
                     },
                     {
-                        "url_imagen": "assets/img/pelucheria/4.jpg"
+                        "url_imagen": "assets/img/pelucheria/4.jpg",
+                        "precio": "100.000",
+                        "nombre": "Almohada peluche gatito"
                     },
                     {
-                        "url_imagen": "assets/img/pelucheria/5.jpg"
+                        "url_imagen": "assets/img/pelucheria/5.jpg",
+                        "precio": "",
+                        "nombre": ""
                     },
                     {
-                        "url_imagen": "assets/img/pelucheria/6.jpg"
+                        "url_imagen": "assets/img/pelucheria/6.jpg",
+                        "precio": "76.000",
+                        "nombre": "Peluche vaquita"
                     },
                     {
-                        "url_imagen": "assets/img/pelucheria/7.jpg"
+                        "url_imagen": "assets/img/pelucheria/7.jpg",
+                        "precio": "",
+                        "nombre": ""
                     },
                     {
-                        "url_imagen": "assets/img/pelucheria/8.jpg"
+                        "url_imagen": "assets/img/pelucheria/8.jpg",
+                        "precio": "",
+                        "nombre": ""
                     },
                     {
-                        "url_imagen": "assets/img/pelucheria/9.jpg"
+                        "url_imagen": "assets/img/pelucheria/9.jpg",
+                        "precio": "40.000",
+                        "nombre": "Osito de varios colores"
                     },
                     {
-                        "url_imagen": "assets/img/pelucheria/10.jpg"
+                        "url_imagen": "assets/img/pelucheria/10.jpg",
+                        "precio": "48.000",
+                        "nombre": "Osito tradicional"
                     }
                 ]
             }
@@ -130,43 +397,69 @@
                 "subtitulo_principal": "",
                 "items": [
                     {
-                        "url_imagen": "assets/img/cosmeticos_y_bisuteria/1.jpg"
+                        "url_imagen": "assets/img/cosmeticos_y_bisuteria/1.jpg",
+                        "precio": "26.600",
+                        "nombre": "Rubor suelto"
                     },
                     {
-                        "url_imagen": "assets/img/cosmeticos_y_bisuteria/3.jpg"
+                        "url_imagen": "assets/img/cosmeticos_y_bisuteria/3.jpg",
+                        "precio": "37.000",
+                        "nombre": "Mascarillas para la cara"
                     },
                     {
-                        "url_imagen": "assets/img/cosmeticos_y_bisuteria/4.jpg"
+                        "url_imagen": "assets/img/cosmeticos_y_bisuteria/4.jpg",
+                        "precio": "",
+                        "nombre": ""
                     },
                     {
-                        "url_imagen": "assets/img/cosmeticos_y_bisuteria/5.jpg"
+                        "url_imagen": "assets/img/cosmeticos_y_bisuteria/5.jpg",
+                        "precio": "9.000",
+                        "nombre": "Manillas en piedrería"
                     },
                     {
-                        "url_imagen": "assets/img/cosmeticos_y_bisuteria/6.jpg"
+                        "url_imagen": "assets/img/cosmeticos_y_bisuteria/6.jpg",
+                        "precio": "18.000",
+                        "nombre": "Collares"
                     },
                     {
-                        "url_imagen": "assets/img/cosmeticos_y_bisuteria/7.jpg"
+                        "url_imagen": "assets/img/cosmeticos_y_bisuteria/7.jpg",
+                        "precio": "13.000",
+                        "nombre": "Anillos con piedras"
                     },
                     {
-                        "url_imagen": "assets/img/cosmeticos_y_bisuteria/8.jpg"
+                        "url_imagen": "assets/img/cosmeticos_y_bisuteria/8.jpg",
+                        "precio": "70.000",
+                        "nombre": "Set de collar, anillo y aretes"
                     },
                     {
-                        "url_imagen": "assets/img/cosmeticos_y_bisuteria/9.jpg"
+                        "url_imagen": "assets/img/cosmeticos_y_bisuteria/9.jpg",
+                        "precio": "34.000",
+                        "nombre": "Bronceador en perlas"
                     },
                     {
-                        "url_imagen": "assets/img/cosmeticos_y_bisuteria/10.jpg"
+                        "url_imagen": "assets/img/cosmeticos_y_bisuteria/10.jpg",
+                        "precio": "30.000",
+                        "nombre": "Rubor en perlas"
                     },
                     {
-                        "url_imagen": "assets/img/cosmeticos_y_bisuteria/11.jpg"
+                        "url_imagen": "assets/img/cosmeticos_y_bisuteria/11.jpg",
+                        "precio": "",
+                        "nombre": ""
                     },
                     {
-                        "url_imagen": "assets/img/cosmeticos_y_bisuteria/12.jpg"
+                        "url_imagen": "assets/img/cosmeticos_y_bisuteria/12.jpg",
+                        "precio": "31.900",
+                        "nombre": "Anillo imitación esmeralda"
                     },
                     {
-                        "url_imagen": "assets/img/cosmeticos_y_bisuteria/13.jpg"
+                        "url_imagen": "assets/img/cosmeticos_y_bisuteria/13.jpg",
+                        "precio": "19.000",
+                        "nombre": "Collar minimalista"
                     },
                     {
-                        "url_imagen": "assets/img/cosmeticos_y_bisuteria/14.jpg"
+                        "url_imagen": "assets/img/cosmeticos_y_bisuteria/14.jpg",
+                        "precio": "92.000",
+                        "nombre": "Kit de maquillaje"
                     }
                 ]
             }
@@ -183,22 +476,34 @@
                 "subtitulo_principal": "",
                 "items": [
                     {
-                        "url_imagen": "assets/img/dulceria/1.jpg"
+                        "url_imagen": "assets/img/dulceria/1.jpg",
+                        "precio": "",
+                        "nombre": ""
                     },
                     {
-                        "url_imagen": "assets/img/dulceria/3.jpg"
+                        "url_imagen": "assets/img/dulceria/3.jpg",
+                        "precio": "",
+                        "nombre": ""
                     },
                     {
-                        "url_imagen": "assets/img/dulceria/4.jpeg"
+                        "url_imagen": "assets/img/dulceria/4.jpeg",
+                        "precio": "",
+                        "nombre": ""
                     },
                     {
-                        "url_imagen": "assets/img/dulceria/5.jpeg"
+                        "url_imagen": "assets/img/dulceria/5.jpeg",
+                        "precio": "",
+                        "nombre": ""
                     },
                     {
-                        "url_imagen": "assets/img/dulceria/6.jpeg"
+                        "url_imagen": "assets/img/dulceria/6.jpeg",
+                        "precio": "",
+                        "nombre": ""
                     },
                     {
-                        "url_imagen": "assets/img/dulceria/7.jpeg"
+                        "url_imagen": "assets/img/dulceria/7.jpeg",
+                        "precio": "",
+                        "nombre": ""
                     }
                 ]
             }
@@ -215,28 +520,44 @@
                 "subtitulo_principal": "",
                 "items": [
                     {
-                        "url_imagen": "assets/img/regalos_y_manualidades/1.png"
+                        "url_imagen": "assets/img/regalos_y_manualidades/1.png",
+                        "precio": "",
+                        "nombre": ""
                     },
                     {
-                        "url_imagen": "assets/img/regalos_y_manualidades/2.png"
+                        "url_imagen": "assets/img/regalos_y_manualidades/2.png",
+                        "precio": "",
+                        "nombre": ""
                     },
                     {
-                        "url_imagen": "assets/img/regalos_y_manualidades/3.png"
+                        "url_imagen": "assets/img/regalos_y_manualidades/3.png",
+                        "precio": "",
+                        "nombre": ""
                     },
                     {
-                        "url_imagen": "assets/img/regalos_y_manualidades/4.png"
+                        "url_imagen": "assets/img/regalos_y_manualidades/4.png",
+                        "precio": "",
+                        "nombre": ""
                     },
                     {
-                        "url_imagen": "assets/img/regalos_y_manualidades/5.png"
+                        "url_imagen": "assets/img/regalos_y_manualidades/5.png",
+                        "precio": "",
+                        "nombre": ""
                     },
                     {
-                        "url_imagen": "assets/img/regalos_y_manualidades/6.png"
+                        "url_imagen": "assets/img/regalos_y_manualidades/6.png",
+                        "precio": "",
+                        "nombre": ""
                     },
                     {
-                        "url_imagen": "assets/img/regalos_y_manualidades/7.png"
+                        "url_imagen": "assets/img/regalos_y_manualidades/7.png",
+                        "precio": "",
+                        "nombre": ""
                     },
                     {
-                        "url_imagen": "assets/img/regalos_y_manualidades/8.png"
+                        "url_imagen": "assets/img/regalos_y_manualidades/8.png",
+                        "precio": "",
+                        "nombre": ""
                     }
                 ]
             }
@@ -253,31 +574,49 @@
                 "subtitulo_principal": "",
                 "items": [
                     {
-                        "url_imagen": "assets/img/pinateria/1.jpeg"
+                        "url_imagen": "assets/img/pinateria/1.jpeg",
+                        "precio": "",
+                        "nombre": ""
                     },
                     {
-                        "url_imagen": "assets/img/pinateria/2.jpeg"
+                        "url_imagen": "assets/img/pinateria/2.jpeg",
+                        "precio": "",
+                        "nombre": ""
                     },
                     {
-                        "url_imagen": "assets/img/pinateria/3.jpeg"
+                        "url_imagen": "assets/img/pinateria/3.jpeg",
+                        "precio": "",
+                        "nombre": ""
                     },
                     {
-                        "url_imagen": "assets/img/pinateria/4.jpg"
+                        "url_imagen": "assets/img/pinateria/4.jpg",
+                        "precio": "",
+                        "nombre": ""
                     },
                     {
-                        "url_imagen": "assets/img/pinateria/5.jpeg"
+                        "url_imagen": "assets/img/pinateria/5.jpeg",
+                        "precio": "",
+                        "nombre": ""
                     },
                     {
-                        "url_imagen": "assets/img/pinateria/6.jpeg"
+                        "url_imagen": "assets/img/pinateria/6.jpeg",
+                        "precio": "",
+                        "nombre": ""
                     },
                     {
-                        "url_imagen": "assets/img/pinateria/7.jpeg"
+                        "url_imagen": "assets/img/pinateria/7.jpeg",
+                        "precio": "",
+                        "nombre": ""
                     },
                     {
-                        "url_imagen": "assets/img/pinateria/9.jpeg"
+                        "url_imagen": "assets/img/pinateria/9.jpeg",
+                        "precio": "",
+                        "nombre": ""
                     },
                     {
-                        "url_imagen": "assets/img/pinateria/10.jpeg"
+                        "url_imagen": "assets/img/pinateria/10.jpeg",
+                        "precio": "",
+                        "nombre": ""
                     }
                 ]
             }
@@ -294,16 +633,24 @@
                 "subtitulo_principal": "",
                 "items": [
                     {
-                        "url_imagen": "assets/img/ferreteria/1.jpg"
+                        "url_imagen": "assets/img/ferreteria/1.jpg",
+                        "precio": "",
+                        "nombre": ""
                     },
                     {
-                        "url_imagen": "assets/img/ferreteria/2.jpg"
+                        "url_imagen": "assets/img/ferreteria/2.jpg",
+                        "precio": "",
+                        "nombre": ""
                     },
                     {
-                        "url_imagen": "assets/img/ferreteria/3.jpg"
+                        "url_imagen": "assets/img/ferreteria/3.jpg",
+                        "precio": "",
+                        "nombre": ""
                     },
                     {
-                        "url_imagen": "assets/img/ferreteria/4.jpg"
+                        "url_imagen": "assets/img/ferreteria/4.jpg",
+                        "precio": "",
+                        "nombre": ""
                     }
                 ]
             }
@@ -320,10 +667,14 @@
                 "subtitulo_principal": "",
                 "items": [
                     {
-                        "url_imagen": "assets/img/articulos_para_mascotas/1.jpg"
+                        "url_imagen": "assets/img/articulos_para_mascotas/1.jpg",
+                        "precio": "",
+                        "nombre": ""
                     },
                     {
-                        "url_imagen": "assets/img/articulos_para_mascotas/2.jpeg"
+                        "url_imagen": "assets/img/articulos_para_mascotas/2.jpeg",
+                        "precio": "",
+                        "nombre": ""
                     }
                 ]
             }
@@ -340,31 +691,49 @@
                 "subtitulo_principal": "",
                 "items": [
                     {
-                        "url_imagen": "assets/img/accesorio_para_aparatos_electronicos/1.jpg"
+                        "url_imagen": "assets/img/accesorio_para_aparatos_electronicos/1.jpg",
+                        "precio": "",
+                        "nombre": ""
                     },
                     {
-                        "url_imagen": "assets/img/accesorio_para_aparatos_electronicos/2.jpeg"
+                        "url_imagen": "assets/img/accesorio_para_aparatos_electronicos/2.jpeg",
+                        "precio": "",
+                        "nombre": ""
                     },
                     {
-                        "url_imagen": "assets/img/accesorio_para_aparatos_electronicos/3.jpeg"
+                        "url_imagen": "assets/img/accesorio_para_aparatos_electronicos/3.jpeg",
+                        "precio": "",
+                        "nombre": ""
                     },
                     {
-                        "url_imagen": "assets/img/accesorio_para_aparatos_electronicos/4.jpeg"
+                        "url_imagen": "assets/img/accesorio_para_aparatos_electronicos/4.jpeg",
+                        "precio": "",
+                        "nombre": ""
                     },
                     {
-                        "url_imagen": "assets/img/accesorio_para_aparatos_electronicos/5.jpeg"
+                        "url_imagen": "assets/img/accesorio_para_aparatos_electronicos/5.jpeg",
+                        "precio": "",
+                        "nombre": ""
                     },
                     {
-                        "url_imagen": "assets/img/accesorio_para_aparatos_electronicos/6.jpeg"
+                        "url_imagen": "assets/img/accesorio_para_aparatos_electronicos/6.jpeg",
+                        "precio": "",
+                        "nombre": ""
                     },
                     {
-                        "url_imagen": "assets/img/accesorio_para_aparatos_electronicos/7.jpeg"
+                        "url_imagen": "assets/img/accesorio_para_aparatos_electronicos/7.jpeg",
+                        "precio": "",
+                        "nombre": ""
                     },
                     {
-                        "url_imagen": "assets/img/accesorio_para_aparatos_electronicos/8.jpeg"
+                        "url_imagen": "assets/img/accesorio_para_aparatos_electronicos/8.jpeg",
+                        "precio": "",
+                        "nombre": ""
                     },
                     {
-                        "url_imagen": "assets/img/accesorio_para_aparatos_electronicos/R.jpeg"
+                        "url_imagen": "assets/img/accesorio_para_aparatos_electronicos/R.jpeg",
+                        "precio": "",
+                        "nombre": ""
                     }
                 ]
             }

@@ -34,15 +34,24 @@
                             <div class='owl-carousel owl-theme productos-carousel'>";
                         foreach ($subPortafolio['items'] as $subPortafolioSub) {
                             $urlImagen = $subPortafolioSub['url_imagen'];
+                            $nombreArticulo = $subPortafolioSub['nombre'] == "" ? "Nombre no registrado" : $subPortafolioSub['nombre'];
+                            $precioArticulo = $subPortafolioSub['precio'] == "" ? 0 : $subPortafolioSub['precio'];
                             $stringPlantilla .= "<div>
                                                     <img class='width-producto' height='300' src='{$urlImagen}' alt=''>
+                                                    <div style='text-align:start;font-weight: 900;'>
+                                                        <span>{$nombreArticulo}</span>
+                                                        <br>
+                                                        <span>$ {$precioArticulo}</span>
+                                                    </div>
+                                                    <br>
                                                     <button type='button' class='btn btn-outline-warning' data-toggle='tooltip' data-placement='top'
-                                                        title='Agregar al carrito' style='width: 300px;' onclick='insertCart(&quot;{$urlImagen}&quot;)'>Agregar al carrito <i
+                                                        title='Agregar al carrito' style='width: 300px;' onclick='insertCart(&quot;{$urlImagen}&quot;,null,&quot;{$precioArticulo}&quot;,&quot;{$nombreArticulo}&quot;)'>Agregar al carrito <i
                                                             class='fa fa-shopping-cart' aria-hidden='true'></i></button>
                                                 </div>";
                         }
+                        $stringPlantilla .= "</div>";
                     }
-                    $stringPlantilla .= "</div>
+                    $stringPlantilla .= "
                             </div>
                         </div>
                     </section>";

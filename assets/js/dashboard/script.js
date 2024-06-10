@@ -57,7 +57,7 @@ function myFunction() {
     }
 }
 
-function insertCart(urlimage, element = null) {
+function insertCart(urlimage, element = null, price, name) {
     var imgurlalternative = '';
     $(element).children().each(function() {
         console.log(typeof($(this).attr('src')) !== 'undefined');
@@ -68,6 +68,8 @@ function insertCart(urlimage, element = null) {
 
     const data = {
         urlimage: element != null ? imgurlalternative : urlimage,
+        price: price,
+        name: name
     };
 
     $.ajax({

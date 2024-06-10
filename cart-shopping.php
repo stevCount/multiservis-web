@@ -22,7 +22,7 @@
     <div class="content">
         <section id="marco">
             <div class="container fluid">
-                <h1 class="text-center mb-4 titulo-parrafos mt-5">Articulos en el carrito <i class="fa-solid fa-cart-shopping"></i> </h1>
+                <h1 class="text-center mb-4 titulo-parrafos mt-5">Artículos en el carrito <i class="fa-solid fa-cart-shopping"></i> </h1>
             </div>
 
             <div class="container fluid">

@@ -1,14 +1,14 @@
 <?php
 
-$servidor   = 'localhost';
-$usuario    = 'id21488773_multiservisuser';
-$contrasena = 'Aa123456$';
-$bd = 'id21488773_multiservisweb';
+// $servidor   = 'localhost';
+// $usuario    = 'id21488773_multiservisuser';
+// $contrasena = 'Aa123456$';
+// $bd = 'id21488773_multiservisweb';
 
-// $servidor   = '172.28.44.74';
-// $usuario    = 'remote';
-// $contrasena = 'remote';
-// $bd = 'multiservisweb';
+$servidor   = '172.28.44.74';
+$usuario    = 'remote';
+$contrasena = 'remote';
+$bd = 'multiservisweb';
 $conexion = new mysqli($servidor, $usuario, $contrasena, $bd);
 if ($conexion->connect_error) {
     die('Hubo un fallo en la conexión ' . $conexion->connect_error);
